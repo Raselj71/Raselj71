@@ -68,6 +68,7 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| [**MobileMint**](https://mobilemint.vercel.app) · [Google Play](https://play.google.com/store/apps/dev?id=6941996920045495645) | My independent Android app studio: apps published on Google Play | React Native · Android |
 | [**sg-card-balance**](https://github.com/Raselj71/sg-card-balance) | Singapore EZ-Link / NETS FlashPay balance and trip reader using NFC | React Native · Android |
 | [**FeedLock**](https://github.com/Raselj71/feedlock) | Android Reels/Shorts blocker with a strict lock | React Native · Android |
 | [**Deen**](https://github.com/Raselj71/Deen) | Mobile app built with Expo | Expo · React Query · Zustand |
@@ -92,6 +93,9 @@
 ## 📫 Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-codewithrasel.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codewithrasel.com/)
+[![MobileMint](https://img.shields.io/badge/MobileMint-Developer_Page-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white)](https://mobilemint.vercel.app)
+[![Google Play](https://img.shields.io/badge/Google_Play-Developer_Profile-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=6941996920045495645)
+[![Email](https://img.shields.io/badge/Email-rasel.cse.green@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasel.cse.green@gmail.com)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />

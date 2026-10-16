@@ -3,7 +3,7 @@
 **Software Engineer — mobile and full-stack**
 Dhrubok Infotech Services Ltd · Bangladesh
 
-[Portfolio](https://codewithrasel.com/) · [MobileMint](https://mobilemint.vercel.app) · [Google Play](https://play.google.com/store/apps/dev?id=6941996920045495645) · [Email](mailto:rasel.cse.green@gmail.com)
+[Portfolio](https://rasel-portfolio-two.vercel.app) · [MobileMint](https://mobilemint.vercel.app) · [Google Play](https://play.google.com/store/apps/dev?id=6941996920045495645) · [Email](mailto:rasel.cse.green@gmail.com)
 
 ---
 
@@ -36,4 +36,4 @@ I build cross-platform mobile apps with React Native and Expo, including custom 
 
 ## Contact
 
-For work enquiries, reach me at [rasel.cse.green@gmail.com](mailto:rasel.cse.green@gmail.com) or through my [portfolio](https://codewithrasel.com/).
+For work enquiries, reach me at [rasel.cse.green@gmail.com](mailto:rasel.cse.green@gmail.com) or through my [portfolio](https://rasel-portfolio-two.vercel.app).
